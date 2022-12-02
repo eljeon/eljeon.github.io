@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "first weekend at somansa"
+title: "연구소 신입적응기 - 김마리 연구원"
 date: 2022-12-02 14:45:02 +0900
 categories: somansa culture
 ---
