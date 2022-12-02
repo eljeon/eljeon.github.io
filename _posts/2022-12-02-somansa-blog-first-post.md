@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "somansa blog's first post"
+title: "somansa blog first post"
 date: 2022-12-02 14:20:00 -0000
 categories: SOMANSA Laboratory
 ---
