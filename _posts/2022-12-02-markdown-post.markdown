@@ -5,8 +5,8 @@ date: 2022-12-02 15:30:01 +0900
 categories: somansa writing
 ---
 
-https://www.youtube.com/watch?v=kMEb_BzyUqk
-https://dev.to/envoy_/mastering-markdown-the-complete-guide-2dmf
+- https://www.youtube.com/watch?v=kMEb_BzyUqk
+- https://dev.to/envoy_/mastering-markdown-the-complete-guide-2dmf
 
 # Markdown이란? 
 'Markdown'은 문서 작성을 지원하는 태그(Tag) 형식의 문법이다.
@@ -138,13 +138,12 @@ console.log('your mesage')
 - Third item
 + Fourth item
 
-<!-- Task Lists -->
-- [X] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
 
-<!-- gitmoji -->
-:art:
+<!-- Task Lists -->
+-[X] Write the press release
+-[ ] Update the website
+-[ ] Contact the media
+
 
 
 
