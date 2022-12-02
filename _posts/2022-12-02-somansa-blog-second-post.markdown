@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "first weekend at somansa"
-date: 2022-12-02 14:45:02 +0100
+date: 2022-12-02 14:45:02 +0900
 categories: somansa culture
 ---
 
