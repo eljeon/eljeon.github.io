@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "소만사 연구소 신입적응기"
+title: "First weekend at SOMANSA - Kim Ma-ri"
 date: 2022-12-02 14:45:02 +0100
 categories: somansa culture
 ---
