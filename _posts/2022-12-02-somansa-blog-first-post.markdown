@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "somansa blog first post"
-date: 2022-12-02 14:20:00 -0000
-categories: SOMANSA Laboratory
+date: 2022-12-02 14:20:21 +0900
+categories: somansa laboratory
 ---
 
 소만사 연구소를 소개합니다.
