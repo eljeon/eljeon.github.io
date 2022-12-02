@@ -20,7 +20,7 @@ categories: somansa writing
 
 **이것은 두껍게**
  
-~~취소선을 넣습니다. ~~
+~~취소선을 넣습니다.~~
 
 ==강조하고 싶은==
 
@@ -68,12 +68,13 @@ Numbers:
 3. third
 
 <!-- Link -->
-Click [here](www.somansa.com)
+Click [here](http://www.somansa.com)
 
 <!-- Image -->
 ![image description](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA5MTRfMTYx%2FMDAxNjYzMTIyMDUyOTM4.VNba5cRf3yXGMuQXVHVdXXfhtsd3DzcXq3ugemXH5hIg.aD2zlwk5tC_MZgqshfI2yscWvJB3T4sdvlwW0bSN85Ug.JPEG.limi_eo%2FIMG_1798.jpg&type=a340)
 
 <!-- Table -->
+
 |Header|Description|
 |:--:|:--:|
 |Cell1|Cell2|
@@ -89,11 +90,13 @@ console.log('your mesage')
 ```
 
 <!-- Blockquotes with Multiple Paragraphs -->
+
 > This is the first paragraph.
 > 
 > This is the second paragraph.
 
 <!-- Nested Blockquotes -->
+
 > This is the first paragraph.
 > 
 >> And this is the nested pragraph.
@@ -143,10 +146,3 @@ console.log('your mesage')
 - [X] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
-
-
-
-
-
-
-
