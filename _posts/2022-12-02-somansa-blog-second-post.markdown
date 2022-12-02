@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First weekend at SOMANSA - Kim Ma-ri"
+title: "First weekend at SOMANSA"
 date: 2022-12-02 14:45:02 +0100
 categories: somansa culture
 ---
