@@ -140,9 +140,9 @@ console.log('your mesage')
 
 
 <!-- Task Lists -->
--[X] Write the press release
--[ ] Update the website
--[ ] Contact the media
+- [X] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
 
 
 
