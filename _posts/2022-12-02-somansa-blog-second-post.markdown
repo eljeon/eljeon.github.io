@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "First weekend at SOMANSA"
+title: "first weekend at somansa"
 date: 2022-12-02 14:45:02 +0100
-categories: organization culture
+categories: somansa culture
 ---
 
 소만사 연구소 신입적응기
