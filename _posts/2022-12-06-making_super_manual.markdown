@@ -79,8 +79,7 @@ categories: lab introduce
 
 4) 짧은 문장, 쉬운 표현으로 쓰기
 - '스타 사이트', '먼지 사이트' 등 이해하기 쉬운 표현 사용
-![image](https://user-images.githubusercontent.com/118801307/206064114-ab269c07-88f6-40fd-9225-7039f0a2d716.png)
-
+![image](https://user-images.githubusercontent.com/118801307/206066037-b80d9a53-58d8-451f-8c07-0bace374e717.png)
 5) 읽는 사람이 이해하기 쉬운 문서가 좋은 문서다
 - 시스템 상에서 혼선을 야기시키는 용어를 **매뉴얼에서 광의/협의 개념으로 분리하여 설명**
 - 용어소개 차원이 아닌 **전체 개괄 내용**을 **한 페이지에 모두 요약**하여 기술
