@@ -57,22 +57,22 @@ categories: lab introduce
 1) 읽는 사람 입장에서 문서를 작성한다.  
 - 처음 제품을 사용하는 사용자도 쉽게 사용할 수 있도록 **시나리오 기반의 Quick Guide 제작**  
 
-![20221206_164930](https://user-images.githubusercontent.com/118801307/205852199-80f97d83-abc6-44e9-8e23-4b10514d4e81.png)
+![image](https://user-images.githubusercontent.com/118801307/206067593-1e9b6185-07d5-4fe3-b0b0-478eb726d730.png)
 
 - 매뉴얼 도입부에 **시스템 구성도** 와 **정책 구성요소 & 위치** 를 소개함으로써 제품의 전반적 이해 높임
-![image](https://user-images.githubusercontent.com/118801307/205855250-9e5ea79c-bffc-400f-b565-bb248a5ee54b.png)
+![image](https://user-images.githubusercontent.com/118801307/206067709-f3940603-9e4d-4fb5-8af1-e48cf411e72d.png)  
 
 - **기능의 사용 용도** 를 자세히 기술함으로써 필요시 바로 사용할 수 있도록 함
-![image](https://user-images.githubusercontent.com/118801307/205855505-a3f4bcec-6cfd-4de5-a1cb-6692a62aebbc.png)
+![image](https://user-images.githubusercontent.com/118801307/206068485-76034e09-0255-4f54-ae83-deacfc0d9c2d.png)
 
 - 사용자가 부가적으로 알아야 할 중요정보들을 **Note / Important** 표시하여 제공
-![20221206_170933](https://user-images.githubusercontent.com/118801307/205857765-6fe0c16c-8cbc-411c-bee7-f25ea60fd514.png)
+![image](https://user-images.githubusercontent.com/118801307/206068110-e5c7f6e2-07ae-4226-a937-b9fcacc79632.png)
 
 
 
 2) 내용을 한 눈에 알아볼 수 있는 제목
 - 메뉴명에서 목차명을 차용하는 것이 아닌 **기능에 대한 정보를 포함한 세부목차 설정**  
-![20221206_171144](https://user-images.githubusercontent.com/118801307/205856247-ca907aad-fe84-42e0-bcbe-ef6108349a73.png)
+![image](https://user-images.githubusercontent.com/118801307/206068632-f108a38a-3ded-462a-a9cf-a4abd9ed9af5.png)
 
 3) 최신 기능에 대한 설명 업데이트
 - 기존 매뉴얼에서 누락된 **멀티 리포트 기능 분석 및 설명 업데이트**
