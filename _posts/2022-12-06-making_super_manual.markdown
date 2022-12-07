@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[문서작성1] 연구소 문서혁신"
+title:  "[문서작성1] 매뉴얼 작성 및 관리방안"
 date:   2022-12-06 15:00:00 +0900
 categories: lab introduce
 ---
