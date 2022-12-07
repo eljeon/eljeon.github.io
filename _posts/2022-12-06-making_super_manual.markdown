@@ -86,7 +86,7 @@ categories: lab introduce
 
 6) 단순하게 표현한 시각자료가 더 효과적이다
 - 인시던츠 상태(신규, 열람, 상위보고, 확인)기능 사용의 이해를 돕기 위한 **소명 프로세스 도식화**
-![image](https://user-images.githubusercontent.com/118801307/206064606-c5c1c1f8-01d7-4d12-9682-0b441f20c976.png)
+![image](https://user-images.githubusercontent.com/118801307/206066173-526b816c-c71d-4bdd-ad36-666aebcd042b.png)
 - **통제 정책 아이콘화** 하여 세부 넷앱별로 표시
 ![image](https://user-images.githubusercontent.com/118801307/206064759-373a44ff-67c1-4cee-b28b-e1b4f36d68d6.png)
 - 각 챕터별 시작페이지마다 **핵심 분석결과를 함축한 다이어그램 제공**
