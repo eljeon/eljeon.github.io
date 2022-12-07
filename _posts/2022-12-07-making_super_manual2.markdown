@@ -29,3 +29,7 @@ categories: lab introduce
 4) 중요도, 신규사항, 날짜 기입하기
 - **필수 개발** 건은 **Important** 표기, **신규 개발** 건은 **New** 표기
 ![image](https://user-images.githubusercontent.com/118801307/206070598-820ad4b3-4276-4041-875c-4ab71705b560.png)
+
+- 개발 건마다 **날짜 기록** 하여 **시스템 개서 진행상황 추적**
+![image](https://user-images.githubusercontent.com/118801307/206088792-5f8094c3-9d65-42f1-bf0c-09c0fcbb0f39.png)
+
