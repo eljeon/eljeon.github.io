@@ -49,7 +49,7 @@ categories: lab introduce
 **매뉴얼**, **분석 자료** 의 **내용 측면** 을 고려하여 **문서작성 최소원칙** 에 대해 알아보고자 한다.  
 
 
-![20221206_153460](https://user-images.githubusercontent.com/118801307/205851121-ed8843e3-b399-4dad-b974-4640b9060ee3.png)
+![image](https://user-images.githubusercontent.com/118801307/206067484-cf7f350a-01e6-4c39-a6a0-590b6d2a2f80.png)
 
 
 ### 매뉴얼 내용 측면
