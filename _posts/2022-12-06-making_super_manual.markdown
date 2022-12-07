@@ -88,8 +88,7 @@ categories: lab introduce
 - 인시던츠 상태(신규, 열람, 상위보고, 확인)기능 사용의 이해를 돕기 위한 **소명 프로세스 도식화**
 ![image](https://user-images.githubusercontent.com/118801307/206066173-526b816c-c71d-4bdd-ad36-666aebcd042b.png)
 - **통제 정책 아이콘화** 하여 세부 넷앱별로 표시
-![image](https://user-images.githubusercontent.com/118801307/206064759-373a44ff-67c1-4cee-b28b-e1b4f36d68d6.png)
-
+![image](https://user-images.githubusercontent.com/118801307/206067172-ce096ab0-4edf-4f7d-95a8-12e70be0184e.png)
 
 오늘은 비즈니스 커뮤니케이션이란 무엇인지, 기존 매뉴얼의 AS-IS와 *매뉴얼 - 내용적 측면*의 개선방법을 알아보았습니다.   
 이어서 다음 시간에는 *분석 자료 - 내용 측면* 에 대해 알아보도록 하겠습니다. 
