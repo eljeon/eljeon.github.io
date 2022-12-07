@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[문서작성1] 매뉴얼 작성 및 관리방안"
+title:  "좋은 문서 작성시 고려사항 - [매뉴얼] 편"
 date:   2022-12-06 15:00:00 +0900
 categories: lab introduce
 ---
