@@ -89,8 +89,6 @@ categories: lab introduce
 ![image](https://user-images.githubusercontent.com/118801307/206066173-526b816c-c71d-4bdd-ad36-666aebcd042b.png)
 - **통제 정책 아이콘화** 하여 세부 넷앱별로 표시
 ![image](https://user-images.githubusercontent.com/118801307/206064759-373a44ff-67c1-4cee-b28b-e1b4f36d68d6.png)
-- 각 챕터별 시작페이지마다 **핵심 분석결과를 함축한 다이어그램 제공**
-![image](https://user-images.githubusercontent.com/118801307/206064908-4ecdffc9-a389-4840-a313-f0e40df91a7f.png)
 
 
 오늘은 비즈니스 커뮤니케이션이란 무엇인지, 기존 매뉴얼의 AS-IS와 *매뉴얼 - 내용적 측면*의 개선방법을 알아보았습니다.   
